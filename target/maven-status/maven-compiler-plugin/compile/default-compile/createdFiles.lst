@@ -1,5 +1,4 @@
 com\epf\dao\impl\CarteDAOImpl$CarteRowMapper.class
-com\epf\dao\impl\CarteDAOImplTest.class
 com\epf\dao\impl\PlanteDAOImpl.class
 com\epf\dao\PlanteDAO.class
 com\epf\test\CarteDAOTest.class
@@ -14,6 +13,7 @@ com\epf\test\ZombieServiceTest.class
 com\epf\dao\CarteDAO.class
 com\epf\test\PlanteTest.class
 com\epf\model\Plante.class
+com\epf\test\ZombieServiceIntegrationTest.class
 com\epf\dao\ZombieDAO.class
 com\epf\config\DataSourceConfig.class
 com\epf\test\PlanteServiceTest.class
